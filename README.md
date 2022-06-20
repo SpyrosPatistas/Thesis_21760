@@ -1,12 +1,12 @@
 # Personal preferences will be stated due to the app being developed with those tools
 
-#How to get the source code
-If the user has git installed in their local machine:
+# How to get the source code
+###If the user has git installed in their local machine:
 Open Git Bash.
 Navigate into the location where the source code will be cloned.
 Run 'git clone https://github.com/SpyrosPatistas/Thesis_21760.git' to get the source code.
 
-The user can also download the files in a zip and unzip it to get the source code.
+###The user can also download the files in a zip and unzip it to get the source code.
 
 # Requirements to run the app
 User must have a local MongoDB database installed, version v5.0.2 (preferred).
