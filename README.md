@@ -2,7 +2,7 @@
 ### If the user has git installed in their local machine:
 Open Git Bash.
 Navigate into the location where the source code will be cloned.
-Run 'git clone https://github.com/SpyrosPatistas/Thesis_21760.git' to get the source code.
+Run 'git clone https://github.com/dithua/Thesis_21760.git' to get the source code.
 
 ### The user can also download the files in a zip and unzip it to get the source code.
 
